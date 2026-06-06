@@ -67,3 +67,11 @@ way 1
 git diff <BRANCH_NAME>    --> to compare commit,branch,files and more
 
 git merge <BRANCH_NAME>   --> to merge two branches 
+
+
+way 2
+
+create a PR
+
+PR --> pull request 
+it lets you tell others about the changes you have pushed to a branch in a repository on github
