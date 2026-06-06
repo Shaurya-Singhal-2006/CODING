@@ -61,8 +61,6 @@ EG : (BUG FIX TEAM , FEATURE 1 TEAM , FEATURE 2 TEAM , THEY WORK ON COPIES OF TH
 
 
 
-
-
 WORKFLOW
 
 GITHUB REPO --> CLONE --> CHANGES --> ADD --> COMMIT --> Push
@@ -80,6 +78,21 @@ GIT BRANCHES
 
 4. git checkout -b <NEW_BRANCH_NAME>         --> to create new branch 
 
-5. git branch -d <BRANCH_NAME>
+5. git branch -d <BRANCH_NAME>               --> to delete any branch 
 
 
+MERGING CODE 
+
+way 1 
+
+git diff <BRANCH_NAME>    --> to compare commit,branch,files and more
+
+git merge <BRANCH_NAME>   --> to merge two branches 
+
+
+way 2
+
+create a PR
+
+PR --> pull request 
+it lets you tell others about the changes you have pushed to a branch in a repository on github
