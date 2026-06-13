@@ -1,2 +1,2 @@
 # CODING
-Made This To Learn Git And Github Using VS Code 😊😊
+🚀 A repository made to learn Git, GitHub, and VS Code through hands-on practice 💻✨
